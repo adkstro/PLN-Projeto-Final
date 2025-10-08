@@ -1,0 +1,1 @@
+#Projeto final da cadeira Processamento de Linguagem Natural do curso de Ciência de dados e Inteligência Artificial da UFPB
